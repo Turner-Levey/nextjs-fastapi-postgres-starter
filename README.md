@@ -1,5 +1,8 @@
 ## Running the Application
 
+## Approach
+For this take-home my approach centered around creating a workable, clean solution for interacting with a chat bot over a web api. I had a bit more time, and therefore decided to support the creation of multiple threads with messsages attatched to each thread. This gives the user a bit more organization and is a real-world implementation. I tried to organize the code in a way that is scalable and structurally sound. 
+
 ## Required Software
 
 1. Python
